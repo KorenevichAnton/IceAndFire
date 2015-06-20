@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/spells
+END
+AirLightningSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/spells/AirLightningSpellAI.h
+END
+EarthPowerSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/EarthPowerSpellAI.h
+END
+WaterArmorSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/WaterArmorSpellAI.h
+END
+EarthWallSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/9/trunk/BattleMagic/Classes/AI/spells/EarthWallSpellAI.h
+END
+AirSpeedSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/AirSpeedSpellAI.cpp
+END
+WaterNeedleSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/WaterNeedleSpellAI.cpp
+END
+FireRainSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/FireRainSpellAI.cpp
+END
+EarthHolySpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/EarthHolySpellAI.cpp
+END
+WaterRainSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/WaterRainSpellAI.h
+END
+FireWallSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/FireWallSpellAI.cpp
+END
+AirTwistSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/AirTwistSpellAI.cpp
+END
+FireSwordSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/FireSwordSpellAI.h
+END
+WaterHealSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/WaterHealSpellAI.cpp
+END
+EarthSwarmSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/EarthSwarmSpellAI.cpp
+END
+AirLightningSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/AirLightningSpellAI.cpp
+END
+EarthPowerSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/EarthPowerSpellAI.cpp
+END
+EarthWallSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/89/trunk/BattleMagic/Classes/AI/spells/EarthWallSpellAI.cpp
+END
+AirChainSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/spells/AirChainSpellAI.h
+END
+WaterArmorSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/WaterArmorSpellAI.cpp
+END
+FireBallSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/spells/FireBallSpellAI.h
+END
+WaterRainSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/spells/WaterRainSpellAI.cpp
+END
+AirSpeedSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/AirSpeedSpellAI.h
+END
+EarthHolySpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/EarthHolySpellAI.h
+END
+FireRainSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/FireRainSpellAI.h
+END
+FireSwordSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/FireSwordSpellAI.cpp
+END
+WaterNeedleSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/spells/WaterNeedleSpellAI.h
+END
+FireWallSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/9/trunk/BattleMagic/Classes/AI/spells/FireWallSpellAI.h
+END
+AirTwistSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/AirTwistSpellAI.h
+END
+AirChainSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/AirChainSpellAI.cpp
+END
+FireBallSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/61/trunk/BattleMagic/Classes/AI/spells/FireBallSpellAI.cpp
+END
+WaterHealSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/10/trunk/BattleMagic/Classes/AI/spells/WaterHealSpellAI.h
+END
+EarthSwarmSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/spells/EarthSwarmSpellAI.h
+END

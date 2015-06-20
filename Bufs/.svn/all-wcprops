@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs
+END
+BufLifePower.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufLifePower.h
+END
+BufFireSword.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufFireSword.cpp
+END
+BufSpeed.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufSpeed.h
+END
+BufLowDamage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufLowDamage.h
+END
+BufPoison.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufPoison.cpp
+END
+BufFireSword.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufFireSword.h
+END
+BufPoison.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufPoison.h
+END
+bufAll.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/bufAll.h
+END
+BufPush.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufPush.cpp
+END
+Buf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/Buf.cpp
+END
+BufArmor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufArmor.cpp
+END
+BufFreeze.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufFreeze.cpp
+END
+BufRegeneration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufRegeneration.cpp
+END
+BufPush.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufPush.h
+END
+Buf.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/Buf.h
+END
+BufResurrection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/80/trunk/BattleMagic/Classes/Bufs/BufResurrection.cpp
+END
+BufSlow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufSlow.cpp
+END
+BufFreeze.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufFreeze.h
+END
+BufFire.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufFire.cpp
+END
+BufArmor.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufArmor.h
+END
+BufRegeneration.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufRegeneration.h
+END
+BufResurrection.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufResurrection.h
+END
+BufSlow.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufSlow.h
+END
+BufFire.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufFire.h
+END
+BufLifePower.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufLifePower.cpp
+END
+BufLowDamage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufLowDamage.cpp
+END
+BufSpeed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/Bufs/BufSpeed.cpp
+END

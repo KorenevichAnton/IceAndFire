@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI
+END
+UnitAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/UnitAI.h
+END
+ManaRegenerationAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/ManaRegenerationAI.h
+END
+FireSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/FireSpellAI.cpp
+END
+BulletUnitAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/BulletUnitAI.cpp
+END
+FireSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/FireSpellAI.h
+END
+BulletUnitAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/BulletUnitAI.h
+END
+EnumsUnitAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/EnumsUnitAI.h
+END
+HeroAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IceAndFire_ampa_new/!svn/ver/56/trunk/BattleMagic/Classes/AI/HeroAI.cpp
+END
+MovingUnitAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/MovingUnitAI.cpp
+END
+HeroAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/HeroAI.h
+END
+MovingUnitAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/MovingUnitAI.h
+END
+ElementaryUnitAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/ElementaryUnitAI.cpp
+END
+PassiveSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/PassiveSpellAI.cpp
+END
+ElementaryUnitAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/ElementaryUnitAI.h
+END
+ActiveSpellAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/ActiveSpellAI.cpp
+END
+ManaRegenerationAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/ManaRegenerationAI.cpp
+END
+PassiveSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/PassiveSpellAI.h
+END
+UnitAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/UnitAI.cpp
+END
+ActiveSpellAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/ActiveSpellAI.h
+END

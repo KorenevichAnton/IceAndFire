@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet
+END
+PulsarFireBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/PulsarFireBulletAI.cpp
+END
+PulsarColdBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/PulsarColdBulletAI.h
+END
+PulsarSwampBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/PulsarSwampBulletAI.cpp
+END
+PulsarFireBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/PulsarFireBulletAI.h
+END
+PulsarElectricBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/PulsarElectricBulletAI.cpp
+END
+PulsarSwampBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/PulsarSwampBulletAI.h
+END
+PulsarElectricBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/PulsarElectricBulletAI.h
+END
+BulletBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/BulletBulletAI.cpp
+END
+StoneBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/StoneBulletAI.cpp
+END
+ArrowBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/ArrowBulletAI.cpp
+END
+PulsarEarthBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/PulsarEarthBulletAI.cpp
+END
+Spear1BulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/Spear1BulletAI.cpp
+END
+Spear2BulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/Spear2BulletAI.cpp
+END
+BulletBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/BulletBulletAI.h
+END
+GarpunBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/GarpunBulletAI.cpp
+END
+StoneBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/StoneBulletAI.h
+END
+PulsarLightBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/PulsarLightBulletAI.cpp
+END
+PulsarEarthBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/PulsarEarthBulletAI.h
+END
+ArrowBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/ArrowBulletAI.h
+END
+BoltBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/BoltBulletAI.cpp
+END
+Spear1BulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/Spear1BulletAI.h
+END
+GarpunBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/GarpunBulletAI.h
+END
+Spear2BulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/Spear2BulletAI.h
+END
+PulsarLightBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/PulsarLightBulletAI.h
+END
+FireWallBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/FireWallBulletAI.cpp
+END
+BoltBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/BoltBulletAI.h
+END
+TrapBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/TrapBulletAI.cpp
+END
+PulsarColdBulletAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IceAndFire_ampa_new/!svn/ver/20/trunk/BattleMagic/Classes/AI/bullet/PulsarColdBulletAI.cpp
+END
+FireWallBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/FireWallBulletAI.h
+END
+TrapBulletAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/bullet/TrapBulletAI.h
+END

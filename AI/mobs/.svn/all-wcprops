@@ -1,0 +1,629 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs
+END
+TrollHunterMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/TrollHunterMobAI.h
+END
+ZvergMysticMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ZvergMysticMobAI.h
+END
+ZombieDarkKnightMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/80/trunk/BattleMagic/Classes/AI/mobs/ZombieDarkKnightMobAI.cpp
+END
+ScorpionRedMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ScorpionRedMobAI.h
+END
+FrostlingHunterMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/FrostlingHunterMobAI.cpp
+END
+TrollTrapperMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/TrollTrapperMobAI.h
+END
+SceletonArcherMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/SceletonArcherMobAI.cpp
+END
+ZvergWarriorMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/ZvergWarriorMobAI.cpp
+END
+HumanVillagerMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/HumanVillagerMobAI.h
+END
+MehanicKillerMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/MehanicKillerMobAI.cpp
+END
+OrcDubolomMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/OrcDubolomMobAI.h
+END
+HarrkKrusherMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/HarrkKrusherMobAI.cpp
+END
+DwarfStoneMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/DwarfStoneMobAI.cpp
+END
+SceletonLeechMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/SceletonLeechMobAI.cpp
+END
+DemonSlaveMasterMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/DemonSlaveMasterMobAI.h
+END
+KoboldStaratelMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/KoboldStaratelMobAI.h
+END
+DwarfEngineerMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/DwarfEngineerMobAI.cpp
+END
+SceletonMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/SceletonMobAI.h
+END
+ZombieShamanMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ZombieShamanMobAI.h
+END
+KoboldWarriorMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/KoboldWarriorMobAI.h
+END
+ScorpionRedMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/ScorpionRedMobAI.cpp
+END
+ZombieMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ZombieMobAI.h
+END
+ZombieDarkKnightMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ZombieDarkKnightMobAI.h
+END
+KoboldShamanMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/KoboldShamanMobAI.cpp
+END
+HumanMonkMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/HumanMonkMobAI.h
+END
+HumanArcherMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/HumanArcherMobAI.h
+END
+OrcDubolomMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/OrcDubolomMobAI.cpp
+END
+OrcBerserkMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/OrcBerserkMobAI.h
+END
+DemonSlaveMasterMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/DemonSlaveMasterMobAI.cpp
+END
+BugBlackMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/BugBlackMobAI.cpp
+END
+HarrkKillerMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/HarrkKillerMobAI.cpp
+END
+ZombieCrossbowMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ZombieCrossbowMobAI.h
+END
+ZombieShamanMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/80/trunk/BattleMagic/Classes/AI/mobs/ZombieShamanMobAI.cpp
+END
+DwarfWarriorMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/DwarfWarriorMobAI.h
+END
+DwarfStoneMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/DwarfStoneMobAI.h
+END
+SceletonWarriorMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/SceletonWarriorMobAI.cpp
+END
+FrostlingWarriorMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/FrostlingWarriorMobAI.h
+END
+TrollShamanMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/TrollShamanMobAI.cpp
+END
+ZombieMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IceAndFire_ampa_new/!svn/ver/80/trunk/BattleMagic/Classes/AI/mobs/ZombieMobAI.cpp
+END
+DwarfEngineerMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/DwarfEngineerMobAI.h
+END
+DemonFirespitterMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/DemonFirespitterMobAI.h
+END
+HarrkArcherMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/HarrkArcherMobAI.cpp
+END
+MehanicGuardMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/MehanicGuardMobAI.h
+END
+HumanArcherMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/49/trunk/BattleMagic/Classes/AI/mobs/HumanArcherMobAI.cpp
+END
+HumanMonkMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/56/trunk/BattleMagic/Classes/AI/mobs/HumanMonkMobAI.cpp
+END
+ScorpionBlackMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ScorpionBlackMobAI.h
+END
+BugGreenMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/BugGreenMobAI.cpp
+END
+OrcBerserkMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/OrcBerserkMobAI.cpp
+END
+TrollWarriorMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/TrollWarriorMobAI.cpp
+END
+FrostlingShamanMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/FrostlingShamanMobAI.h
+END
+DemonRigMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/DemonRigMobAI.cpp
+END
+HarrkShamanMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/HarrkShamanMobAI.h
+END
+ZvergStoneMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/ZvergStoneMobAI.cpp
+END
+DemonSmokeMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/DemonSmokeMobAI.h
+END
+ZombieCrossbowMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IceAndFire_ampa_new/!svn/ver/80/trunk/BattleMagic/Classes/AI/mobs/ZombieCrossbowMobAI.cpp
+END
+KoboldShamanMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/KoboldShamanMobAI.h
+END
+MehanicShooterMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/MehanicShooterMobAI.cpp
+END
+OrcArcherMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/OrcArcherMobAI.cpp
+END
+DwarfWarriorMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/DwarfWarriorMobAI.cpp
+END
+FrostlingTrapperMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/FrostlingTrapperMobAI.h
+END
+MehanicConstructorMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/MehanicConstructorMobAI.cpp
+END
+FrostlingWarriorMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/FrostlingWarriorMobAI.cpp
+END
+DwarfGeomantMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/DwarfGeomantMobAI.cpp
+END
+HarrkKillerMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/HarrkKillerMobAI.h
+END
+BugBlackMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/BugBlackMobAI.h
+END
+OrcShamanMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/OrcShamanMobAI.h
+END
+HumanKnightMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/HumanKnightMobAI.h
+END
+TrollHunterMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/TrollHunterMobAI.cpp
+END
+DemonFirespitterMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/DemonFirespitterMobAI.cpp
+END
+ZvergCrossbowMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ZvergCrossbowMobAI.h
+END
+ZvergMysticMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/ZvergMysticMobAI.cpp
+END
+MehanicGuardMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/MehanicGuardMobAI.cpp
+END
+SceletonWarriorMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/SceletonWarriorMobAI.h
+END
+KoboldStoneMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/KoboldStoneMobAI.h
+END
+ScorpionBlackMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/ScorpionBlackMobAI.cpp
+END
+TrollShamanMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/TrollShamanMobAI.h
+END
+TrollTrapperMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/TrollTrapperMobAI.cpp
+END
+HumanVillagerMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/49/trunk/BattleMagic/Classes/AI/mobs/HumanVillagerMobAI.cpp
+END
+HarrkShamanMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/HarrkShamanMobAI.cpp
+END
+FrostlingShamanMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/FrostlingShamanMobAI.cpp
+END
+DemonSmokeMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/DemonSmokeMobAI.cpp
+END
+HarrkArcherMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/HarrkArcherMobAI.h
+END
+FrostlingHunterMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/FrostlingHunterMobAI.h
+END
+BugGreenMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/BugGreenMobAI.h
+END
+FrostlingTrapperMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/FrostlingTrapperMobAI.cpp
+END
+SceletonArcherMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/SceletonArcherMobAI.h
+END
+TrollWarriorMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/TrollWarriorMobAI.h
+END
+ZvergWarriorMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ZvergWarriorMobAI.h
+END
+DemonRigMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/DemonRigMobAI.h
+END
+KoboldStaratelMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/KoboldStaratelMobAI.cpp
+END
+OrcShamanMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/OrcShamanMobAI.cpp
+END
+ZvergStoneMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/ZvergStoneMobAI.h
+END
+MehanicKillerMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/MehanicKillerMobAI.h
+END
+SceletonMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/SceletonMobAI.cpp
+END
+OrcArcherMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/OrcArcherMobAI.h
+END
+MehanicShooterMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/MehanicShooterMobAI.h
+END
+HumanKnightMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/49/trunk/BattleMagic/Classes/AI/mobs/HumanKnightMobAI.cpp
+END
+MehanicConstructorMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/MehanicConstructorMobAI.h
+END
+ZvergCrossbowMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/ZvergCrossbowMobAI.cpp
+END
+KoboldWarriorMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/KoboldWarriorMobAI.cpp
+END
+HarrkKrusherMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/HarrkKrusherMobAI.h
+END
+SceletonLeechMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/SceletonLeechMobAI.h
+END
+KoboldStoneMobAI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/IceAndFire_ampa_new/!svn/ver/68/trunk/BattleMagic/Classes/AI/mobs/KoboldStoneMobAI.cpp
+END
+DwarfGeomantMobAI.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/IceAndFire_ampa_new/!svn/ver/2/trunk/BattleMagic/Classes/AI/mobs/DwarfGeomantMobAI.h
+END
